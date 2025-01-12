@@ -1,3 +1,0 @@
-make: Entering directory `/c/Users/shaka/OneDrive/Email attachments/Documenten/Data Science Project/BATREES/BA-Trees-master/docs/src/born_again_dp'
-make: Nothing to be done for `all'.
-make: Leaving directory `/c/Users/shaka/OneDrive/Email attachments/Documenten/Data Science Project/BATREES/BA-Trees-master/docs/src/born_again_dp'
